@@ -1,0 +1,11 @@
+QuickSort
+Refresh
+BubbleSort
+Refresh
+SelectionSort
+Refresh
+InsertionSort
+ReInitialize
+QuickSort
+Error
+Quit
